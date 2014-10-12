@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- participant -->
+
+    <array name="participant">
+        <item>#be45ec</item>
+        <item>#348cf8</item>
+        <item>#52e4b5</item>
+        <item>#fe2963</item>
+        <item>#888888</item>
+        <item>#30aa47</item>
+        <item>#feb902</item>
+        <item>#ff6633</item>
+        <item>#00cc33</item>
+        <item>#66ccff</item>
+        <item>#0066ff</item>
+        <item>#ff3333</item>
+        <item>#cccccc</item>
+        <item>#66cccc</item>
+    </array>
+
+</resources>
